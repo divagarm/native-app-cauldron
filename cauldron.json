@@ -12,12 +12,26 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#4400745d1d5d81f49a97a9a2f996dcd8514c88f2"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@2.1.0",
+                  "ernnavigation-api@2.1.0",
+                  "react-native-electrode-bridge@1.6.0",
+                  "react-native@0.72.14"
+                ],
+                "miniAppsBranches": [
+                  "git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#main"
+                ],
+                "ernVersion": "0.52.0"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "d8ad6c10-b413-43b3-bc9a-63cfc541f3f6"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
