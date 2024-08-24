@@ -2993,9 +2993,9 @@ ms@2.1.3:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-"myminiapp@git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#4400745d1d5d81f49a97a9a2f996dcd8514c88f2":
+"myminiapp@git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#d8549ad1417873b5c7712b5c84a9d62049b6c69e":
   version "0.0.1"
-  resolved "git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#4400745d1d5d81f49a97a9a2f996dcd8514c88f2"
+  resolved "git+ssh://git@github.com/divagarm/rn-sdk-demo-app.git#d8549ad1417873b5c7712b5c84a9d62049b6c69e"
   dependencies:
     ern-navigation "^2.1.0"
     react "18.2.0"
@@ -3928,10 +3928,15 @@ tr46@~0.0.3:
   resolved "https://registry.yarnpkg.com/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
   integrity sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==
 
-tslib@^2.0.1, tslib@^2.0.3:
+tslib@^2.0.1:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.3.tgz#0438f810ad7a9edcde7a241c3d80db693c8cbfe0"
   integrity sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==
+
+tslib@^2.0.3:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.7.0.tgz#d9b40c5c40ab59e8738f297df3087bf1a2690c01"
+  integrity sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==
 
 type-detect@4.0.8:
   version "4.0.8"
