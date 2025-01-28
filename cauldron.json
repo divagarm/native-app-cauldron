@@ -12,12 +12,26 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#f04c9f0b4bb5d8ca87ef9c1c456ab6bdbd0d5158"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@2.1.0",
+                  "ernnavigation-api@2.1.0",
+                  "react-native-electrode-bridge@1.6.0",
+                  "react-native@0.72.14"
+                ],
+                "miniAppsBranches": [
+                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#main"
+                ],
+                "ernVersion": "0.52.0"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "c287578f-9d40-46d8-b7f6-5a514f1d5d24"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
