@@ -2,28 +2,6 @@
   "name": "Cauldron",
   "nativeApps": [
     {
-      "name": "MyApplication",
-      "platforms": [
-        {
-          "name": "ios",
-          "versions": [
-            {
-              "name": "1",
-              "codePush": {},
-              "container": {
-                "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
-              },
-              "isReleased": false,
-              "nativeDeps": [],
-              "yarnLocks": {}
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "MyNativeAndroidApp",
       "platforms": [
         {
