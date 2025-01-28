@@ -35,7 +35,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#6f5aabc649c0e14ad67b5c2c59ad8d3201cb9df0"
+                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#f04c9f0b4bb5d8ca87ef9c1c456ab6bdbd0d5158"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@2.1.0",
