@@ -49,7 +49,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#14bd10027c6f81be2f19c7124af47b114bc43d9a"
+                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#106d746715edb264638d2acbf9d9fcc46088660f"
                 ],
                 "nativeDeps": [
                   "@react-native-community/datetimepicker@8.2.0",
