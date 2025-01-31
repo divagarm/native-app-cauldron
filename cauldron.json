@@ -13,12 +13,9 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#f04c9f0b4bb5d8ca87ef9c1c456ab6bdbd0d5158"
+                  "git+ssh://git@github.com/divagarm/rn-sdk-rn72-compatible.git#5d7c20bd3300c1ed364254ac39f77769d6ecfb0b"
                 ],
                 "nativeDeps": [
-                  "ernnavigation-api-impl-native@2.1.0",
-                  "ernnavigation-api@2.1.0",
-                  "react-native-electrode-bridge@1.6.0",
                   "react-native@0.72.14"
                 ],
                 "miniAppsBranches": [
